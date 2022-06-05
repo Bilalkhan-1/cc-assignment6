@@ -1,0 +1,14 @@
+{
+"name": "quadratic-equations-solver",
+"version": "1.0.2",
+"description": "Solve quadratic equations with response values.",
+  "license": "MIT",
+  "repository": "VincentPhilippe64/quadratic-equations-solver",
+  "main": "index.js",
+  "keywords": [
+    "equations",
+    "solver",
+    "math",
+    "quadratic"
+  ]
+}
